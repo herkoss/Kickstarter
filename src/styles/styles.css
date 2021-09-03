@@ -301,7 +301,7 @@ h1 {
 
 .nav {
   position: absolute;
-  left: -100%;
+  left: -100vw;
   background-color: #f7f7f7;
   transition: left 0.4s;
 }
